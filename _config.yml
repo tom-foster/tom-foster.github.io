@@ -1,22 +1,24 @@
 # --- Basic options --- #
 
 # Name of website
-title: Tom Foster - Alpha build
+title: Tom Foster
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Thoughts and work of Tom Foster, currently Warwickshire's Data Analytics Lead and technical
+specialist. Specialities, are web, digital, data, machine learning, data strategy, and data ethics.
+Opinions are my own. 😎
 
 # Your name to show in the footer
-author: Some Person
+author: Tom Foster
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
+  Work with me : "workwithme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
