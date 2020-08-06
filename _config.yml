@@ -15,8 +15,8 @@ author: Tom Foster
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Work with me : "workwithme"
+  About Me: "about-me"
+  Work with me : "work-with-me"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -42,12 +42,12 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  # facebook: deanattali
+  github: tom-foster
+  # twitter: daattali
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: thomas-foster-264aa1176
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
