@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Digital and Data expert
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I've worked in the public sector predominantly most of my working life, with a bit of a spell in the private sector running my own business, and advising others.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I enjoy the areas I work in and I do value delivering social value through doing good things. I love tricky complicated problems.
 
-What else do you need?
+From time to time though I occassionally like to work on my own projects, whether for fun or commercial reasons.
 
-### my history
+I probably never got the most from the education system like I should have but I am a life long learner. It's fair to say I'm very broad technically now, and not too bad on applied data ethics, legislation and governance either.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Ideally looking to set up a couple of small businesses that run themselves, I have a pang sometimes to work for myself again but at the moment it's not a pressing priority, but I'm open to opportunities as and when they come.
+
+Future near-time goals would be looking to become a Chief Data Officer, and side hustles!
+
+Oh and this website might turn into a blog I just haven't decided yet. 🤔
+
+<!-- ### my history
+
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions. -->
