@@ -10,7 +10,7 @@ I enjoy the areas I work in and I do value delivering social value through doing
 
 From time to time though I occassionally like to work on my own projects, whether for fun or commercial reasons.
 
-I probably never got the most from the education system like I should have but I am a life long learner. It's fair to say I'm very broad technically now, and not too bad on applied data ethics, legislation and governance either.
+I probably never got the most from the education system like I should have but I am a life long learner. It's fair to say I'm very broad technically now, as well as on applied data ethics, legislation and governance either.
 
 My work experience though has meant that I've got depth and breadth of experience in:
 - Digital
@@ -25,6 +25,8 @@ My work experience though has meant that I've got depth and breadth of experienc
     - Visualisation
     - Strategy and roadmapping
     - Project management and delivery lead
+    - Relationship management
+    - Data innovation
 
 I also have a bizarre amount of experience in branding for some reason.
 
