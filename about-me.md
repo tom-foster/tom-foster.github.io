@@ -27,6 +27,7 @@ My work experience though has meant that I've got depth and breadth of experienc
     - Project management and delivery lead
     - Relationship management
     - Data innovation
+    - Upskilling staff through talent programmes
 
 I also have a bizarre amount of experience in branding for some reason.
 
