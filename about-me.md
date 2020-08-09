@@ -14,6 +14,7 @@ One of my biggest regrets is not getting the most from the education system like
 
 My work experience though has meant that I've got depth and breadth of experience in:
 # Digital
+
     - Full stack development
     - Test Driven Development
     - User Experience
@@ -21,6 +22,7 @@ My work experience though has meant that I've got depth and breadth of experienc
     - Project management
     - Transformation
 # Data
+
     - Applied ethics
     - Data science
     - Visualisation
