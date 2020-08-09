@@ -8,18 +8,19 @@ I've worked in the public sector predominantly most of my working life, with a b
 
 I enjoy the areas I work in and I do value delivering social value through doing good things. I love tricky complicated challenges.
 
-From time to time though I occassionally like to work on my own projects, whether for fun or commercial reasons.
+From time to time though I occassionally like to work on my own projects, whether for fun or commercial reasons. It use to be full stack, but I tend to be more python focussed these days.
 
-I probably never got the most from the education system like I should have but I am a life long learner. It's fair to say I'm very broad technically now, as well as on applied data ethics, legislation and governance either.
+One of my biggest regrets is not getting the most from the education system like I should have but I am a life long learner. I'm very broad technically now, and I'm not too shabby on applied data ethics, legislation and governance either.
 
 My work experience though has meant that I've got depth and breadth of experience in:
-- Digital
+# Digital
     - Full stack development
     - Test Driven Development
     - User Experience
     - Strategy and roadmapping
     - Project management
-- Data
+    - Transformation
+# Data
     - Applied ethics
     - Data science
     - Visualisation
@@ -27,13 +28,13 @@ My work experience though has meant that I've got depth and breadth of experienc
     - Project management and delivery lead
     - Relationship management
     - Data innovation
-    - Upskilling staff through talent programmes
+    - Change management and transformation
 
 I also have a bizarre amount of experience in branding for some reason.
 
 Ideally looking to set up a couple of small businesses that run themselves, I have a pang sometimes to work for myself again but at the moment it's not a pressing priority, but I'm open to opportunities as and when they come.
 
-Future near-time goals would be looking to become a Chief Data Officer, and side hustles!
+Future near-term goals would be looking to become a Chief Data Officer, and automated side hustles! Who knows maybe I'll write that book I've been meaning too.
 
 Oh and this website might turn into a blog I just haven't decided yet. 🤔
 
