@@ -15,9 +15,9 @@ One of my biggest regrets is not getting the most from the education system like
 My work experience though has meant that I've got depth and breadth of experience in:
 # Digital
 
-- Full stack development
-- Test Driven Development
-- User Experience
+- Full stack development (python/javascript/html/css)
+- Test driven development
+- User experience
 - Strategy and roadmapping
 - Project management
 - Transformation
@@ -37,7 +37,7 @@ I also have a bizarre amount of experience in branding for some reason.
 
 Ideally looking to set up a couple of small businesses that run themselves, I have a pang sometimes to work for myself again but at the moment it's not a pressing priority, but I'm open to opportunities as and when they come.
 
-Future near-term goals would be looking to become a Chief Data Officer, and automated side hustles! Who knows maybe I'll write that book I've been meaning too.
+Future near-term goals would be looking to work on some fully automated side hustles! Who knows maybe I'll write that book I've been meaning too.
 
 Oh and this website might turn into a blog I just haven't decided yet. 🤔
 
