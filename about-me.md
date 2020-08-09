@@ -10,7 +10,7 @@ I enjoy the areas I work in and I do value delivering social value through doing
 
 From time to time though I occassionally like to work on my own projects, whether for fun or commercial reasons. It use to be full stack, but I tend to be more python focussed these days.
 
-One of my biggest regrets is not getting the most from the education system like I should have but I am a life long learner. I'm very broad technically now, and I'm not too shabby on applied data ethics, legislation and governance either.
+One of my biggest regrets is not getting the most from the education system like I should have but I am a life long learner. I'm very broad technically now, and I'm not too shabby on applied data ethics, legislation and governance either!
 
 My work experience though has meant that I've got depth and breadth of experience in:
 # Digital
@@ -21,6 +21,7 @@ My work experience though has meant that I've got depth and breadth of experienc
     - Strategy and roadmapping
     - Project management
     - Transformation
+    
 # Data
 
     - Applied ethics
