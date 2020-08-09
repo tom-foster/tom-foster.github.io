@@ -15,23 +15,23 @@ One of my biggest regrets is not getting the most from the education system like
 My work experience though has meant that I've got depth and breadth of experience in:
 # Digital
 
-    - Full stack development
-    - Test Driven Development
-    - User Experience
-    - Strategy and roadmapping
-    - Project management
-    - Transformation
-    
+- Full stack development
+- Test Driven Development
+- User Experience
+- Strategy and roadmapping
+- Project management
+- Transformation
+
 # Data
 
-    - Applied ethics
-    - Data science
-    - Visualisation
-    - Strategy and roadmapping
-    - Project management and delivery lead
-    - Relationship management
-    - Data innovation
-    - Change management and transformation
+- Applied ethics
+- Data science
+- Visualisation
+- Strategy and roadmapping
+- Project management and delivery lead
+- Relationship management
+- Data innovation
+- Change management and transformation
 
 I also have a bizarre amount of experience in branding for some reason.
 
