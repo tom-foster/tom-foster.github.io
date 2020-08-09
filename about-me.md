@@ -13,7 +13,7 @@ From time to time though I occassionally like to work on my own projects, whethe
 One of my biggest regrets is not getting the most from the education system like I should have but I am a life long learner. I'm very broad technically now, and I'm not too shabby on applied data ethics, legislation and governance either!
 
 My work experience though has meant that I've got depth and breadth of experience in:
-# Digital
+## Digital
 
 - Full stack development (python/javascript/html/css)
 - Test driven development
@@ -22,7 +22,7 @@ My work experience though has meant that I've got depth and breadth of experienc
 - Project management
 - Transformation
 
-# Data
+## Data
 
 - Applied ethics
 - Data science
