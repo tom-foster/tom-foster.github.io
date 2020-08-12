@@ -26,6 +26,7 @@ My work experience though has meant that I've got depth and breadth of experienc
 
 - Applied ethics
 - Data science
+- Machine learning
 - Visualisation
 - Strategy and roadmapping
 - Project management and delivery lead
