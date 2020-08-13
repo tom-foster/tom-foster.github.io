@@ -30,3 +30,6 @@ Whilst I might draw comparisons between the issues we might face with an outlier
 The effects of this have systematically changed every service we deliver, every interaction we have with one another, and they've highlighted flaws in the systems.
 
 But my hope is that with our work and efforts it presents a radical shift; an opportunity to build back better.
+
+{: .box-note}
+**Note:** This post was written originally on the 12 May 2020. However it was only added to the site on the 13 August 2020.
