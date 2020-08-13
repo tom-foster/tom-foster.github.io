@@ -11,7 +11,7 @@ In it I described a world in the PowerPoint where it would be more data driven f
 
 We’d never have to prove a financial case for the use of data, as what it may reveal in of itself was the value case.
 
-There's a secondary point as well which is working in Local Government, if we considered perfect financial conditions, care in most instance would always be provided by people, and we would still choose to optimise systems for efficiency. As there's an imperative to deliver value for money. But perhaps that's a discussion for another post!
+There's a secondary point as well which is working in Local Government, if we considered perfect financial conditions, care in most instances would almost always be provided by people, and we would still choose to optimise systems for efficiency. As there's an imperative to deliver value for money. But perhaps that's a discussion for another post!
 
 Of one of the points I described, was in regards to outliers, that they aren't statistically cold in our business, and outliers matter. That we may need to run whole teams on working on outlier events could be likely. The best example I could think of in mid-February was snow.
 
@@ -29,4 +29,4 @@ Whilst I might draw comparisons between the issues we might face with an outlier
 
 The effects of this have systematically changed every service we deliver, every interaction we have with one another, and they've highlighted flaws in the systems.
 
-But my hope is that with our work and efforts it presents a radical shift an opportunity to build back better.
+But my hope is that with our work and efforts it presents a radical shift; an opportunity to build back better.
