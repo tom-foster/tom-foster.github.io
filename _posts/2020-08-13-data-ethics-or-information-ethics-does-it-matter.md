@@ -11,10 +11,11 @@ The underlying principles related to information and data ethics are broadly com
 
 The most notable arguments for me for making the case of moving to a data centric view of ethics are digitisation (making use of cloud computing), and decision support tools.
 
-In the case of a written letter, as long as that remains as a written letter in storage you have information if we're thinking of how humans would initially make use of it. The steps a human takes typically to understand that letter would be to:
+In the case of a written letter, as long as that remains as a written letter in storage you have information (if we're thinking of how humans would initially make use of it). The steps a human takes typically to understand that letter would be to:
 
-1. Read the letter
+1. Read the letter.
 2. Tell you what the letter says in complete context of all the words.
+3. File the letter.
 
 There is a case for data ethics at this stage if you were thinking more abstractly.
 
@@ -33,7 +34,7 @@ When you think in terms of that written letter being copied to a computer system
 3. Apply natural language processing to break the document into a hash table.
 4. You're now working at the data level as it isn't information humans could make sense of.
 
-If we we're thinking if you were a very popular individual you have lots of letters. Probably too many to read at this stage, you need to filter out the ones so you're only dealing with the most interesting to you, you could employ lots of people to read the letter and tell you what the letter says - but honestly who's doing that these days. (Some might argue who's sending you all these written letters).
+Let's now say you're a very popular individual you have lots of letters. Probably too many to read at this stage, you need to filter out the ones so you're only dealing with the most interesting to you, you could employ lots of people to read the letters and tell you what the letters say - but honestly who's doing that these days. (Some might argue who's sending you all these written letters).
 
 You train a machine learning model to only tell you about the ones you're interested in. This decision support tool operates at a high level of accuracy so you trust it, knowing that it has the probability of throwing out 3% of letters you would find interesting.
 
