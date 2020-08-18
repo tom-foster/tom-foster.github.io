@@ -49,4 +49,4 @@ The decision support tool creates information for you, but it's decision making 
 So is the ethical decision to use it based on information or data?
 
 {: .box-note}
-**Note:** Under the GDPR, there are some situations where you could never have a fully automated decision being made, but there has to be a reasonable system in place so that the decision is still ultimately down to human judgement.
+**Note:** Under the GDPR, there are some situations where you could never have a fully automated decision being made. A reasonable system must still be in place so that the decision is still ultimately down to human judgement.
