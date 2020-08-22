@@ -24,7 +24,7 @@ There is a case for data ethics at this stage if you were thinking more abstract
 3. Count the remaining words.
 4. Maybe you could determine what this letter is about based on the counts.
 
-### Digitisation
+## Digitisation
 But in the day and age we live in, why would we not digitise it?
 
 When you think in terms of that written letter being copied to a computer system, you now apply several processes to convert that down to data itself much like the second argument.
